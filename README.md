@@ -1,1 +1,1 @@
-# sayna_google-homepage
+# sayna_google-homepage : center a div, link images from another pages, notion of svg, making icon on CSS
